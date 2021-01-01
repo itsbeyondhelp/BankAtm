@@ -5,3 +5,5 @@ This is a simple ATM with intro level code just to give myself a little refreshe
 
 You can open your own accounts to keep your money in or use one of the default accounts
 Feel free to clone and learn what I did or add features of your own
+
+I did not include the test package for this project
